@@ -14,19 +14,6 @@ Players play in their terminal — spectators watch the game live on the web das
 ✅ Currently supports **Snake** — more games coming soon!
 
 
-## Screenshots
-
-### Snake Game in Terminal
-
-![TermPlay Dashboard](pictures/dashboard.png)
-
-
-### Snake Game in Web Dashboard
-
-
-![TermPlay Dashboard](pictures/dashboard1.png)
-
-
 ## Tech Stack
 
 - **Server:** Node.js + WebSocket + Socket.IO
@@ -69,6 +56,16 @@ Open browser → [http://localhost:5173/](http://localhost:5173/)
 
 - 🐍 **Snake** — multiplayer survival, eat food and compete for score!
 
+
+### Snake Game in Terminal
+
+![TermPlay Dashboard](photos/dashboard.png)
+
+
+### Snake Game in Web Dashboard
+
+
+![TermPlay Dashboard1](photos/dashboard1.png)
 
 
 ## How It Works
