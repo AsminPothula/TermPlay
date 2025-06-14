@@ -1,0 +1,35 @@
+.viewer-container {
+    background-color: #111;
+    color: white;
+    padding: 20px;
+    font-family: monospace;
+    min-height: 100vh;
+  }
+  
+  .title {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+  }
+  
+  .game-board {
+    display: grid;
+    border: 2px solid #444;
+    margin: 0 auto;
+  }
+  
+  .cell {
+    width: 20px;
+    height: 20px;
+    background-color: #1e1e1e;
+    border: 1px solid #333;
+  }
+  
+  .snake {
+    background-color: #4ade80; /* Tailwind green-400 */
+  }
+  
+  .food {
+    background-color: #f87171; /* Tailwind red-400 */
+  }
+  
