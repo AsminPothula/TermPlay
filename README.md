@@ -4,7 +4,6 @@
 
 Players play in their terminal — spectators watch the game live on the web dashboard.
 
----
 
 ## Features
 
@@ -14,7 +13,6 @@ Players play in their terminal — spectators watch the game live on the web das
 ✅ Replay system for saving game states  
 ✅ Currently supports **Snake** — more games coming soon!
 
----
 
 ## Screenshots
 
@@ -27,7 +25,7 @@ Players play in their terminal — spectators watch the game live on the web das
 
 
 ![TermPlay Dashboard](pictures/dashboard1.png)
----
+
 
 ## Tech Stack
 
@@ -36,7 +34,7 @@ Players play in their terminal — spectators watch the game live on the web das
 - **Dashboard:** React + Vite + Material UI + Socket.IO client
 - **Game Engine:** Custom real-time game loop (`tick.js`)
 
----
+
 
 ## How to Run
 
@@ -65,13 +63,13 @@ npm run dev
 
 Open browser → [http://localhost:5173/](http://localhost:5173/)
 
----
+
 
 ## Current Games
 
 - 🐍 **Snake** — multiplayer survival, eat food and compete for score!
 
----
+
 
 ## How It Works
 
@@ -80,7 +78,7 @@ Open browser → [http://localhost:5173/](http://localhost:5173/)
 - Dashboard shows game board + players + leaderboard.
 - Game state is saved in `replay_data/` folder for replays.
 
----
+
 
 ## Project Structure
 
@@ -96,7 +94,7 @@ termplay/
 └── README.md         # This file
 ```
 
----
+
 
 ## Roadmap
 
@@ -105,7 +103,7 @@ termplay/
 - Spectator mode improvements
 - Game replay viewer
 
----
+
 
 ## Built for Learning
 
@@ -116,7 +114,7 @@ TermPlay is a fun project to explore:
 - Live dashboards & visualizations
 - Game loops & tick-based systems
 
----
+
 
 
 
